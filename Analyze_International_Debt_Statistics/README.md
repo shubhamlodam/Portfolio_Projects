@@ -32,4 +32,4 @@ to 2015.
 <h3 align="left">Approaches :</h3>
 
 SQL, Tableau, Power BI or you can use any tools and techniques as per your
-convenience. We would appreciate your valid imagination in finding solutions
+convenience. 
