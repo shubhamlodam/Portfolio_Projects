@@ -67,7 +67,7 @@ ORDER BY 3 DESC;
 select country_name, indicator_name,debt as repayment_amount 
 from international_debt_data
 where indicator_code='DT.AMT.DLXF.CD' 
-order by debt desc limit 5;
+order by debt desc limit 1;
 
 ----------------------------------------------------------------------------------------------------------------
 # 8. The most common debt indicator
