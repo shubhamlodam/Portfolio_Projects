@@ -1,6 +1,8 @@
 
 <h1 align="center">Project Title : Analyze International Debt Statistics</h1>
 
+![6](https://user-images.githubusercontent.com/106533333/228146182-46131b7b-3cf5-426d-b871-e122d2b22dfd.png)
+
 
 <h3 align="left">Problem Statement :</h3>
 It's not that we humans only take debts to manage our necessities. A country may also
